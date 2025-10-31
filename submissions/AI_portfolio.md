@@ -38,8 +38,8 @@ Instead of scrolling through sections, I wanted visitors to explore my story thr
 
 ## Deployed Site URL
 
-[LINK 🔗](https://adityawaslost.appwrite.network/)
+[LINK 🔗](https://adityawaslost.appwrite.network)
 
 ## Demo Video/Photos
 
-[YOUTUBE DEMO 🎥]()
+[YOUTUBE DEMO 🎥](https://youtu.be/d1U_DcwEKNQ)
